@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h1>Projeto Bikcraft</h1>
+  <h1>Projeto Structboost</h1>
 
   <h2>📃 Descrição</h2>
   <p>Projeto desenvolvido durante curso Codeboost.</p>

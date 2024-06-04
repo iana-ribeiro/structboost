@@ -10,7 +10,7 @@
   <h1>Projeto Structboost</h1>
 
   <h2>📃 Descrição</h2>
-  <p>Projeto desenvolvido durante curso Codeboost.</p>
+  <p>Projeto desenvolvido durante o curso Codeboost.</p>
 
   <h2>🚀 Tecnologias Utilizadas</h2>
   <ul>

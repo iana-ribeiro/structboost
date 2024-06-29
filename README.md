@@ -33,7 +33,7 @@
   <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/iana-ribeiro/">www.linkedin.com/in/iana-ribeiro</a></p>
 
   <h2>▶️ Projeto ao-vivo</h2>
-  <a href="https://iana-ribeiro.github.io/structboost">Confira aqui!</a>
+  <a href="https://iana-ribeiro.github.io/structboost" target="_blank">Confira aqui!</a>
 </body>
 
 </html>

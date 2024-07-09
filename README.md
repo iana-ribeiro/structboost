@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <meta charset="UTF-8">
@@ -9,10 +9,10 @@
 <body>
   <h1>Projeto Structboost</h1>
 
-  <h2>📃 Descrição</h2>
+  <h3>📃 Descrição</h3>
   <p>Projeto desenvolvido durante o curso Codeboost.</p>
 
-  <h2>🚀 Tecnologias Utilizadas</h2>
+  <h3>🚀 Tecnologias Utilizadas</h3>
   <ul>
     <li>
       HTML
@@ -23,16 +23,13 @@
     <li>
       JavaScript
     </li>
-    <li>
-      Git
-    </li>
   </ul>
 
-  <h2>📧 Contato</h2>
-  <p><strong>E-mail:</strong> ianaribeiro.tech@gmail.com</p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/iana-ribeiro/">www.linkedin.com/in/iana-ribeiro</a></p>
+  <h3>📧 Contato</h3>
+  <p>E-mail: ianaribeiro.tech@gmail.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/iana-ribeiro/">www.linkedin.com/in/iana-ribeiro</a></p>
 
-  <h2>▶️ Projeto ao-vivo</h2>
+  <h3>▶️ Projeto ao-vivo</h3>
   <a href="https://iana-ribeiro.github.io/structboost" target="_blank">Confira aqui!</a>
 </body>
 

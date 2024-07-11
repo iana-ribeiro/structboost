@@ -20,9 +20,6 @@
     <li>
       CSS
     </li>
-    <li>
-      JavaScript
-    </li>
   </ul>
 
   <h3>📧 Contato</h3>

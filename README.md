@@ -5,7 +5,6 @@
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- SASS
 
 ## Dê play no projeto!
 
